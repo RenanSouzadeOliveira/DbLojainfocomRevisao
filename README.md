@@ -1,0 +1,1 @@
+ Banco de dados de loja de informatica + revisão de Variaveis em SQL 
